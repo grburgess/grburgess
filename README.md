@@ -9,10 +9,11 @@
 - 📫 How to reach me: jburgess@mpe.mpg.de
 - ⚡ Fun fact: I'm not grumpy
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="jmichaelburgess.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="morethanpriors | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 
 ### Languages and Tools
 
@@ -25,31 +26,31 @@
 
 ### Repos I Like More than Others
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/grburgess/popsynth">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grburgess&repo=popsynth&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/grburgess/cosmogrb">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grburgess&repo=cosmogrb&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/threeml/threeml">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=threeml&repo=threeml&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/threeml/astromodels">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=threeml&repo=astromodels&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/grburgess/gbmgeometry">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grburgess&repo=gbmgeometry&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/grburgess/gbm_drm_gen">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grburgess&repo=gbm_drm_gen&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/grburgess/pychnagcooper">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grburgess&repo=pychangcooper&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/grburgess/pynchrotron">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grburgess&repo=pynchrotron&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
