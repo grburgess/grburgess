@@ -20,12 +20,14 @@
 
 <img align="left" alt="grburgess' Github Stats" src="https://github-readme-stats.vercel.app/api?username=grburgess&count_private=true&show_icons=true&theme=tokyonight&hide_borger=true" />
 
----
+<br />
 
 <img align="left" alt="grburgess' Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grburgess&layout=compact" />
 
 <br />
 <br />
+
+### Repos I Like More than Others
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grburgess&repo=popsynth" />
