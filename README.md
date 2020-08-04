@@ -16,10 +16,12 @@
 
 ### Languages and Tools
 
-<img align="left" alt="grburgess' Github Stats" src="https://github-readme-stats.vercel.app/api?username=grburgess&count_private=true&show_icons=true&theme=tokyonight&hide_borger=true" />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=grburgess&count_private=true&show_icons=true&theme=tokyonight&hide_borger=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="left" alt="grburgess' Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grburgess&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grburgess&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Repos I Like More than Others
 
