@@ -1,6 +1,6 @@
 ### Hi there, I'm J. Michael  - aka [grburgess][website] 👋
 
-
+## About
 - 🔭 I’m currently working on a multitude of gamma-ray burst spectral and temporal modeling problems.
 - 🌱 I’m currently learning non-parametric time-series modeling and proper astrophysical population modeling.
 - 👯 I’m looking to collaborate on Bayeisan heirerchical modeling of populations
@@ -8,22 +8,18 @@
 - 💬 Ask me about gamma-ray bursts
 - 📫 How to reach me: jburgess@mpe.mpg.de
 - ⚡ Fun fact: I'm not grumpy
-<br />
+
 ### Connect with me:
 
 [<img align="left" alt="jmichaelburgess.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="morethanpriors | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
+
 ### Languages and Tools
-<br />
+
 <img align="left" alt="grburgess' Github Stats" src="https://github-readme-stats.vercel.app/api?username=grburgess&count_private=true&show_icons=true&theme=tokyonight&hide_borger=true" />
 
-<br />
-<br />
-<img align="left" alt="grburgess' Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grburgess&layout=compact" />
-<br />
 
-<br />
+<img align="left" alt="grburgess' Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grburgess&layout=compact" />
 
 ### Repos I Like More than Others
 
@@ -55,7 +51,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grburgess&repo=pynchrotron&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<br />
 
 [website]: https://jmichaelburgess.com
 [twitter]: https://twitter.com/morethanpriors
