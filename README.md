@@ -1,13 +1,12 @@
-### Hi there, I'm J. Michael  - aka [grburgess][website] 👋
+### Hi there, I'm [J. Michael][website] 
 
 ## About
-- 🔭 I’m currently working on a multitude of gamma-ray burst spectral and temporal modeling problems.
-- 🌱 I’m currently learning non-parametric time-series modeling and proper astrophysical population modeling.
-- 👯 I’m looking to collaborate on Bayeisan heirerchical modeling of populations
-- 🤔 I’m looking for help with priors
-- 💬 Ask me about gamma-ray bursts
-- 📫 How to reach me: jburgess@mpe.mpg.de
-- ⚡ Fun fact: I'm not grumpy
+- I’m currently working on a multitude of gamma-ray burst spectral and temporal modeling problems.
+- I’m currently learning non-parametric time-series modeling and proper astrophysical population modeling.
+- I’m looking to collaborate on Bayeisan heirerchical modeling of populations
+- I’m looking for help with priors
+- How to reach me: jburgess@mpe.mpg.de
+
 
 #### Connect with me:
 
